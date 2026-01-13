@@ -1,0 +1,12 @@
+# Terraform
+**/.terraform/
+**/.terraform.lock.hcl
+*.tfstate
+*.tfstate.*
+crash.log
+
+# Kubernetes
+*.kubeconfig
+
+# OS
+.DS_Store
